@@ -1,0 +1,2 @@
+webpackJsonp([0x6525c9ada09a],{554:function(t,e){t.exports={data:{markdownRemark:{html:'<p>Experimenting with this static site generator.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/4n0xNbfJLR8" frameborder="0" allowfullscreen></iframe>',frontmatter:{title:"First Tutorial with Gatsby"}}},pathContext:{slug:"/first/"}}}});
+//# sourceMappingURL=path---first-3dc69eb60a8bc75de393.js.map
