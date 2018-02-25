@@ -1,0 +1,2 @@
+webpackJsonp([0xad7d62d7b95f],{559:function(e,t){e.exports={data:{markdownRemark:{html:'<p>Experiencing the difference between React.js and traditional Javascript</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/4SZl1r2O_bY" frameborder="0" allowfullscreen></iframe>',frontmatter:{title:"Second Tutorial with Gatsby"}}},pathContext:{slug:"/second/"}}}});
+//# sourceMappingURL=path---second-2831999b196fa7830c8e.js.map
